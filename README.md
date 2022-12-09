@@ -12,12 +12,12 @@ A passionate Full-Stack developer from Bangladesh
 - 📫 How to reach me **wasifbdjsr@gmail.com**
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 ### Connect with me:
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="Wasif Zaman Omee | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+<img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" /
+<img align="left" alt="wasifzamanomee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Wasif Zaman Omee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -31,11 +31,7 @@ A passionate Full-Stack developer from Bangladesh
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=smwasifzaman.visitor-badge&left_color=blue&right_color=yellow)
+
 <br />
 [![Wasif's github activity graph](https://activity-graph.herokuapp.com/graph?username=smwasifzamanomee&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/smwasifzamanomee/github-readme-activity-graph)
 <h3 align="left">Languages and Tools:</h3>
