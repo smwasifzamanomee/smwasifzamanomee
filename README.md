@@ -12,12 +12,12 @@ A passionate Full-Stack developer from Bangladesh
 - 📫 How to reach me **wasifbdjsr@gmail.com**
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 ### Connect with me:
-<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Wasif Zaman Omee | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
-<img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" /
-<img align="left" alt="wasifzamanomee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Wasif Zaman Omee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="Wasif Zaman Omee | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" /></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="wasifzamanomee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
