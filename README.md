@@ -12,7 +12,7 @@ A passionate Full-Stack developer from Bangladesh
 - 📫 How to reach me **wasifbdjsr@gmail.com**
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 ### Connect with me:
- <a href="https://wasifzamanomee.me" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+ <a href="www.wasifzamanomee.me" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
  <a href="https://facebook.com/wasifzamanomee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
  <a href="https://twitter.com/wasifzamanomee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/wasif-zaman-omee-98a8951a5/" target="_blank"> <img align="left" alt="wasifzamanomee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
