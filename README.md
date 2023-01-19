@@ -7,7 +7,7 @@
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
 * 🔭 I’m currently working on [Nextjs Frontend](https://github.com/smwasifzamanomee/unitedchauffeur.com_frontend)
 * 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
-* 👨‍💻 See my portfolio here at at [https://.netlify.app/](https://.netlify.app/)
+* 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
 * 💬 Ask me about **C++, Python, ReactJS, TailwindCSS**
 * 🤝  I'm open to collaborating on WebApp and ML 
 * ⚡  I am passionate about problem solving 
