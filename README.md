@@ -5,7 +5,7 @@
 
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
-* 🔭 I’m currently working on [Nextjs Frontend](https://github.com/smwasifzamanomee/unitedchauffeur.com_frontend)
+* 🔭 I’m currently working on [Nextjs Frontend]&[Django Backend]
 * 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
 * 💬 Ask me about **C++, Python, ReactJS, TailwindCSS**
