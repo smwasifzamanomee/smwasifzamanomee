@@ -18,7 +18,7 @@
 src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smwasifzamanomee&label=Profile%20views&color=E4405F&style=flat" alt="smwasifzamanomee" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me: </h3>
 <p align="left">
 <a href="wasifzamanomee.me" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://facebook.com/wasifzamanomee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
