@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 <p align="left">
 <a href="wasifzamanomee.me" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://facebook.com/wasifzamanomee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
-<a href="https://twitter.com/wasifzamanomee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/WasifOmee" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/wasif-zaman-omee-98a8951a5/" target="_blank"> <img align="left" alt="wasifzamanomee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://instagram.com/wasifzamanomee/" target="_blank"> <img align="left" alt="Wasif Zaman Omee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
@@ -106,8 +106,6 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 <a href="http://www.github.com/smwasifzamanomee"><img src="https://github-readme-stats.vercel.app/api?username=smwasifzamanomee&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Omee's GitHub stats" /></a>
 
 <a href="http://www.github.com/smwasifzamanomee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smwasifzamanomee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/smwasifzamanomee"><img src="https://activity-graph.herokuapp.com/graph?username=smwasifzamanomee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/smwasifzamanomee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smwasifzamanomee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
