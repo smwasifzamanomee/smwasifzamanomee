@@ -1,11 +1,10 @@
 <h1 align="center">Hi There👋, <br/> I'm S.M. Wasif Zaman Omee</h1>
 
-<h2 align="left">Full Stack Developer at <i>Miicon Solutions<i/></h2>
- 
+## Full Stack Developer at Miicon Solutions 
 
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
-* 🔭 I’m currently working on [Nextjs] & [Django]
+* 🔭 I’m currently working on **Reactjs, Nextjs & Django**
 * 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
 * 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, TailwindCSS**
@@ -65,9 +64,6 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
-### Badges
 
 ## My GitHub Stats
 
