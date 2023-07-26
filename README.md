@@ -13,9 +13,13 @@
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
 
+## Followers
 
 <a href="https://www.github.com/smwasifzamanomee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+## Total Views
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smwasifzamanomee&label=Profile%20views&color=E4405F&style=flat" alt="smwasifzamanomee" /> </p>
 
 ## Connect with me
