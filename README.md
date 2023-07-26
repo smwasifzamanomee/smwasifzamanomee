@@ -18,12 +18,14 @@
 src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smwasifzamanomee&label=Profile%20views&color=E4405F&style=flat" alt="smwasifzamanomee" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/smwasifzamanomee/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smwasifzamanomee)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-zaman-omee-98a8951a5/)
 [![Twitter](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/WasifOmee)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasifbdjsr@gmail.com)
+
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
