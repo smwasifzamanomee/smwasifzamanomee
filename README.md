@@ -5,11 +5,11 @@
 
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
-* 🔭 I’m currently working on [Nextjs Frontend]&[Django Backend]
+* 🔭 I’m currently working on [Nextjs] & [Django]
 * 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
-* 💬 Ask me about **C++, Python, ReactJS, TailwindCSS**
-* 🤝  I'm open to collaborating on WebApp and ML 
+* 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, TailwindCSS**
+* 🤝  I'm open to collaborating on Web Application
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
 
@@ -112,4 +112,3 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 ### GitAchievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smwasifzamanomee" alt="smwasifzamanomee" /></a> </p>
-
