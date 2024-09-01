@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, <br/> I'm S.M. Wasif Zaman Omee</h1>
 
-## Full Stack Developer at Miicon Solutions 
+## Software Engineer At MBM Group (IT)
 
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
@@ -8,7 +8,7 @@
 * 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
 * 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, TailwindCSS**
-* 🤝  I'm open to collaborating on Web Application
+* 🤝  I'm open to collaborating on Web Application, Machine Learning 
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
 
