@@ -5,10 +5,10 @@
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
 * 🔭 I’m currently working on **Reactjs, Nextjs & Django**
-* 🌱 I’m learning **Django, Nextjs, Reactjs, Rest-api Framework**
+* 🌱 I’m learning **NodeJs(Backend), React Native(Mobile), Laravel(Backend), VueJs(Frontend)**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
-* 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, TailwindCSS**
-* 🤝  I'm open to collaborating on Web Application, Machine Learning 
+* 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, Django, TailwindCSS**
+* 🤝  I'm open to collaborating on Web Application, Mobile Application, Machine Learning 
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
 
