@@ -12,6 +12,11 @@
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
 
+## Previous Organization
+* Miicon Solutions (Full-Stack Developer) (15/9/2022 - 31/8/2024) - On-Site 
+* Remote Kitchen - Chatchefs (Full-Stack Developer) (1/8/2023 - 31/1/2024) - Remote 
+* Grameen Communiction - Internship (Software Engineer) (13/3/2022 - 30/6/2022) - On-Site 
+
 ### Followers
 
 <a href="https://www.github.com/smwasifzamanomee" target="_blank" rel="noreferrer"><img
