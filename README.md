@@ -4,10 +4,10 @@
 
 * 🇧🇩 From Jashore, Bangladesh
 * 🎓 CSE Graduate from Independent University, Bangladesh (IUB)
-* 🔭 I’m currently working on **Reactjs, Nextjs & Django**
-* 🌱 I’m learning **NodeJs(Backend), React Native(Mobile), Laravel(Backend), VueJs(Frontend)**
+* 🔭 I’m currently working on Frontend - **Reactjs, Nextjs, Vuejs** & Backend - **Django, Laravel**
+* 🌱 I’m learning **NodeJs(Backend), FastApi(Backend), React Native(Mobile)**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
-* 💬 Ask me about **C++, Python, JavaScript, ReactJS, Nextjs, Django, TailwindCSS**
+* 💬 Ask me about **C++, Python, JavaScript, Php, ReactJS, Nextjs, Django, Laravel, TailwindCSS**
 * 🤝  I'm open to collaborating on Web Application, Mobile Application, Machine Learning 
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
@@ -41,6 +41,7 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -49,11 +50,13 @@ src="https://img.shields.io/github/followers/smwasifzamanomee?logo=github&style=
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VuePress](https://img.shields.io/badge/VuePress-3EAF7D?style=for-the-badge&logo=vuepress&logoColor=white)
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST API](https://img.shields.io/badge/Django_REST_API-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
