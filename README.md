@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on Frontend - **Reactjs, Nextjs, Vuejs** & Backend - **Django, Laravel**
 * 🌱 I’m learning **NodeJs(Backend), FastApi(Backend), React Native(Mobile)**
 * 👨‍💻 See my portfolio here at at [https://wasifzamanomee.vercel.app](https://wasifzamanomee.vercel.app)
-* 💬 Ask me about **C++, Python, JavaScript, Php, ReactJS, Nextjs, Django, Laravel, TailwindCSS**
+* 💬 Ask me about **C++, Python, JavaScript, Php, Reactjs, Nextjs, Vuejs, Django, Laravel, Bootstrap, Tailwind**
 * 🤝  I'm open to collaborating on Web Application, Mobile Application, Machine Learning 
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **wasifbdjsr@gmail.com**
